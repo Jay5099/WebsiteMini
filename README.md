@@ -1,2 +1,0 @@
-# WebsiteMini
-First website Project
